@@ -254,13 +254,13 @@ The insights generated from this dashboard can help businesses:
 # 📁 Project Structure
 
 ```bash
-Superstore-Sales-Profit-Intelligence/
+RETAIL PROFITABILITY & OPERATIONAL INTELLIGENCE DASHBOARD/
 │
 ├── Dataset/
 │   ├── Superstore_Data.csv
 │
 ├── Dashboard/
-│   ├── Superstore_Dashboard.pbix
+│   ├── RETAIL PROFITABILITY & OPERATIONAL INTELLIGENCE DASHBOARD.pbix
 │
 ├── Screenshots/
 │   ├── Executive_Overview.png
