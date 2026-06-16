@@ -376,23 +376,19 @@ Retail Profitability & Operational Intelligence Dashboard/
 
 ├── Dataset/
 
-│   └── Superstore_Data.csv
+│   └── Retail_Sales_Data.csv
 
 │
 
 ├── Dashboard/
 
-│   └── Retail Profitability & Operational Intelligence Dashboard.pbix
+│   └── RETAIL PROFITABILITY & OPERATIONAL INTELLIGENCE DASHBOARD.pbix
 
 │
 
 ├── Screenshots/
 
-│   ├── Executive_Overview.png
-
-│   ├── Profitability_Root_Cause_Analysis.png
-
-│   └── Customer_Product_Intelligence.png
+│   ├── RETAIL PROFITABILITY & OPERATIONAL INTELLIGENCE DASHBOARD PDF.pdf
 
 │
 
